@@ -10,3 +10,6 @@
 sadeem0222/sadeem0222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=sadeem0222&theme=dracula&no-frame=true&column=7)
